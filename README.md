@@ -6,3 +6,6 @@ You can access all the files of the computer version of the game.
 >The game is a 2D game in platformer-rogue like style.
 
 >The game is currently in the process of being adapted for mobile platforms.
+
+
+Game download link:https://omerfarukbaysal.itch.io/a-fox-story

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grounded
+  - Ground
+  - Collectibles
+  - HealUpper
+  - Blocker
+  - Texts
+  - TutorialCollectibles
+  - WideCamera
+  - Dead
+  - HurryMusic
+  - FastMusic
+  - ThrillerMusic
+  - FoxPowerGems
+  - FinishLevel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Texts
+  - Water
+  - UI
+  - Monsters
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 817858861
+    locked: 0
+  - name: Midground
+    uniqueID: 1697088205
+    locked: 0
+  - name: Foreground
+    uniqueID: 1845297839
+    locked: 0
+  - name: Blockers
+    uniqueID: 3584790157
+    locked: 0
+  - name: Monsters
+    uniqueID: 3143319481
+    locked: 0
+  - name: Collectibles
+    uniqueID: 3663219203
+    locked: 0
